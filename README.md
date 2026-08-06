@@ -2,7 +2,7 @@
 
 # ai-trust-platform.github.io
 
-## About this project
+## About this project  
 
 This repository contains the AI Trust Platform Website and Documentation.
 
