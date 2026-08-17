@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/AI-Trust-Services/ai-trust-services.github.io)](https://api.reuse.software/info/github.com/AI-Trust-Services/ai-trust-services.github.io)
 
-# ai-trust-platform.github.io
+# ai-trust-services.github.io
 
 ## About this project
 
