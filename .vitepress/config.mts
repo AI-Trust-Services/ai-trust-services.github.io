@@ -6,6 +6,8 @@ export default defineConfig({
   description: "The only open-source, end-to-end AI governance platform purpose-built for the EU AI Act.",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   ignoreDeadLinks: [
+    // localhost links (e.g. the dev server URL in the README).
+    /^https?:\/\/localhost/,
     // Links to repo files (not rendered markdown pages) — valid on GitHub.
     /(^|\/)LICENSE$/,
     /(^|\/)REUSE\.toml$/,
