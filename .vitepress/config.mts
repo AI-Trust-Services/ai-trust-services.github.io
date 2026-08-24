@@ -5,7 +5,11 @@ export default defineConfig({
   title: "AI Trust Platform",
   description: "The only open-source, end-to-end AI governance platform purpose-built for the EU AI Act.",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
-  ignoreDeadLinks: "localhostLinks",
+  ignoreDeadLinks: [
+    // Links to repo files (not rendered markdown pages) — valid on GitHub.
+    /(^|\/)LICENSE$/,
+    /(^|\/)REUSE\.toml$/,
+  ],
   cleanUrls: true,
   base:
     "PAGES_BASE" in process.env && process.env.PAGES_BASE != ""
