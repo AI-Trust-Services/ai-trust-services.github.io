@@ -8,7 +8,46 @@ This repository contains the AI Trust Platform Website and Documentation.
 
 ## Requirements and Setup
 
-*Insert a short description what is required to get your project running...*
+This site is built with [VitePress](https://vitepress.dev/). To run it locally you need:
+
+- [Node.js](https://nodejs.org/) 20 or newer (the CI uses Node 24)
+- npm (bundled with Node.js)
+
+### Getting started
+
+Clone the repository and install dependencies:
+
+```sh
+git clone https://github.com/AI-Trust-Services/ai-trust-services.github.io.git
+cd ai-trust-services.github.io
+npm ci
+```
+
+### Local development
+
+Start the dev server with hot reload:
+
+```sh
+npm run dev
+```
+
+The site is served at http://localhost:5173 by default.
+
+### Building and previewing
+
+Produce a production build (output goes to `.vitepress/dist`):
+
+```sh
+npm run build
+```
+
+Preview the production build locally:
+
+```sh
+npm run preview
+```
+
+Content lives in the Markdown files at the repository root and under `docs/`; site configuration is in `.vitepress/config.mts`. Pushing to `main` triggers the GitHub Actions workflow that builds the site and deploys it to GitHub Pages.
 
 ## Support, Feedback, Contributing
 
