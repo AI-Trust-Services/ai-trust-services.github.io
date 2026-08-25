@@ -47,11 +47,11 @@ Preview the production build locally:
 npm run preview
 ```
 
-Content lives in the Markdown files at the repository root and under `docs/`; site configuration is in `.vitepress/config.mts`. Pushing to `main` triggers the GitHub Actions workflow that builds the site and deploys it to GitHub Pages.
+Content lives in the Markdown files at the repository root and under `docs/`; site configuration is in `.vitepress/config.mts`. Pushing to `main` triggers the GitHub Actions workflow that builds the site and deploys it to GitHub Pages. 
 
 ## Support, Feedback, Contributing
 
-This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/AI-Trust-Services/ai-trust-services.github.io/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md).
+This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/AI-Trust-Services/ai-trust-services.github.io/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md). 
 
 ## Security / Disclosure
 If you find any bug that may be a security problem, please follow our instructions at [in our security policy](https://github.com/AI-Trust-Services/ai-trust-services.github.io/security/policy) on how to report it. Please do not create GitHub issues for security-related doubts or problems.
