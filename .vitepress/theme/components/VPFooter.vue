@@ -16,6 +16,9 @@ const { hasSidebar } = useSidebar()
         </div>
       </div>
       <div class="legal-bar">
+        <a href="https://www.sap.com/" target="_blank" rel="noopener noreferrer" class="sap-logo-link">
+          <img src="/sap-logo.svg" alt="Logo of SAP SE" class="sap-logo">
+        </a>
         <p>© 2024–2026 SAP SE or an SAP affiliate company. All rights reserved.</p>
         <p>Want to connect? Reach out to us at <a href="mailto:apeiro@sap.com">apeiro@sap.com</a>.</p>
         <p><a href="https://www.sap.com/about/legal/impressum-se.html" target="_blank" rel="noopener noreferrer">Legal Disclosure</a></p>
@@ -59,6 +62,8 @@ const { hasSidebar } = useSidebar()
   color: var(--vp-c-text-3);
   text-align: center;
 }
+.sap-logo-link { display: inline-block; margin-bottom: 12px; }
+.sap-logo { height: 32px; width: auto; display: block; }
 .legal-bar p { margin: 4px 0; }
 .legal-bar a {
   color: var(--vp-c-text-3);
