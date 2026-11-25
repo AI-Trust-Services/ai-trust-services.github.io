@@ -21,7 +21,3 @@ Administrators manage:
 
 - **Users and roles** — who has access and in what capacity.
 - **Platform configuration.**
-
-## Related capabilities
-
-Monitoring, alerting, and decision-trace analysis complete the operational side of governance — giving ongoing visibility into deployed AI systems, raising alerts when conditions are met, and letting teams inspect individual decision traces.
