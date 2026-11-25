@@ -8,8 +8,8 @@ Registration starts from the **Register an AI System** action on your landing pa
 
 - **Name and description** of the AI-enabled application.
 - **Intended purpose** — what the system is for.
-- **Use in the European Union** and **territory of usage**.
-- **Intended users** and deployment context.
+- **Development stage** — where the system currently is in its lifecycle.
+- **Planned rollout** — when the system is expected to go live.
 
 You can also set up collaboration directly during registration:
 
