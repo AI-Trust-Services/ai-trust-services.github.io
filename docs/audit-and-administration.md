@@ -28,4 +28,4 @@ Administrators manage:
 
 ## Related capabilities
 
-Monitoring, alerting, and decision-trace analysis complete the operational side of governance. Those capabilities are described in [How it Works](/docs/how-it-works#monitor-ai-systems), which also includes the full [Glossary](/docs/how-it-works#glossary) of platform terms.
+Monitoring, alerting, and decision-trace analysis complete the operational side of governance — giving ongoing visibility into deployed AI systems, raising alerts when conditions are met, and letting teams inspect individual decision traces.

@@ -1,6 +1,6 @@
 # Getting Started
 
-This guide walks through the AI Trust Platform from the perspective of the people who use it. It picks up where the [Introduction](/docs/) and [How it Works](/docs/how-it-works) pages leave off, and follows the platform as a connected journey — from the moment you log in, through registration and assessment, to ongoing compliance and audit.
+This guide walks through the AI Trust Platform from the perspective of the people who use it. It picks up where the [Introduction](/docs/) leaves off, and follows the platform as a connected journey — from the moment you log in, through registration and assessment, to ongoing compliance and audit.
 
 The platform is organised around **roles**. What you see after logging in — your landing page, your tasks, and the actions available to you — is tailored to your responsibility in the governance lifecycle.
 

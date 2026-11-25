@@ -32,11 +32,11 @@ Opening a system brings you to a structured detail view that acts as the hub for
 
 ## Model cards
 
-For systems built on specific models, a dedicated **model card** view captures the relevant model attributes in one place. Model cards give technical and compliance stakeholders a consistent description of the underlying model — and their presence (or absence) is one of the signals the platform watches for in its [alert rules](/docs/how-it-works#alerts).
+For systems built on specific models, a dedicated **model card** view captures the relevant model attributes in one place. Model cards give technical and compliance stakeholders a consistent description of the underlying model — and their presence (or absence) is one of the signals the platform watches for in its alert rules.
 
 ## Lifecycle stages
 
-Each registered system carries a **lifecycle stage** that reflects where it is operationally — from Development through Testing, Conformity, Market, Post-Market, and finally Decommissioned. The stage is visible on the system record and provides context for assessments, monitoring, and alerting. See the [Glossary](/docs/how-it-works#glossary) for the full definition.
+Each registered system carries a **lifecycle stage** that reflects where it is operationally — from Development through Testing, Conformity, Market, Post-Market, and finally Decommissioned. The stage is visible on the system record and provides context for assessments, monitoring, and alerting.
 
 ## Next: assessment
 

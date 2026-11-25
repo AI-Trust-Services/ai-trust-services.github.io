@@ -51,7 +51,6 @@ export default defineConfig({
           text: "Overview",
           items: [
             { text: "Introduction", link: "/docs/" },
-            { text: "How it Works", link: "/docs/how-it-works" },
           ],
         },
         {
