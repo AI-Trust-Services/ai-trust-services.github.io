@@ -1,6 +1,6 @@
 # Audit & Administration
 
-Governance work has to be defensible and well-run. This page covers the capabilities that sit around the core journey: the **audit trail** that makes every decision traceable, platform **versioning**, and the scoped **administration** role that keeps the platform configured and branded.
+Governance work has to be defensible and well-run. This page covers the capabilities that sit around the core journey: the **audit trail** that makes every decision traceable, and the scoped **administration** role that keeps the platform configured.
 
 ## Audit trail
 
@@ -12,10 +12,6 @@ Governance actions are captured consistently as auditable events, including:
 - **Classification workflow transitions** — submissions, approvals, rejections, requests for more information, and any tier or role overrides made by the Compliance Officer.
 
 Because classification confirmation is a human-in-the-loop decision, recording these transitions means no governance decision is left without a trace. Combined with the [audit-safe snapshot dossier](/docs/ai-assisted-assessment#an-audit-safe-record-of-every-run) captured for each assessment run, the platform can show not only *who decided what* but also *on what information*.
-
-## Versioning
-
-The hosted platform is versioned so that any behaviour can be tied back to a specific build. Each update to the running application carries a version identifier, giving a clear reference point when reviewing how the platform behaved at a given moment.
 
 ## Platform administration
 
