@@ -25,7 +25,3 @@ Filters let you narrow the list by AI system or owner, with a reset to return to
 ## A view of your day
 
 Alongside the dedicated Task View, your [landing page](/docs/getting-started#your-landing-page) gives a consolidated picture of your current work — your open tasks, the AI systems you own, and recent activity — so the first screen after login already answers "what needs my attention today?"
-
-## Working across roles
-
-A single user can hold more than one role. The platform recognises this and adapts the available views and actions to the combination of responsibilities a person holds, so multi-role users work from one coherent experience rather than switching between separate accounts.
