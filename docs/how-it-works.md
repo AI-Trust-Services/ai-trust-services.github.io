@@ -52,7 +52,7 @@ The governance chain component for structured EU AI Act compliance management. T
 - Upload, version, and approve evidence against controls and obligations
 - Automatic status cascade: approved evidence → effective control → fulfilled obligation → updated compliance score
 - Evidence expiry tracking with automated advance alerts
-- Owner assignment and handover across Application Owners, AI Engineers, and Compliance Officers
+- Owner assignment and handover across Business Owners, AI Engineers, and Compliance Officers
 
 ### Monitoring
 

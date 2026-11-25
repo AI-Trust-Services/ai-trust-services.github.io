@@ -1,6 +1,6 @@
 # Register & Classify an AI System
 
-Every governance journey on the platform begins with registration. An **Application Owner** or **AI Engineer** brings an AI-enabled application into the platform, records its context, and attaches the documentation that later workflows draw on. This page follows that journey and the views you work with along the way.
+Every governance journey on the platform begins with registration. A **Business Owner** or **AI Engineer** brings an AI-enabled application into the platform, records its context, and attaches the documentation that later workflows draw on. This page follows that journey and the views you work with along the way.
 
 ## Registering a system
 

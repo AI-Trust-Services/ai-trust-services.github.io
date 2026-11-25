@@ -6,7 +6,7 @@ The platform is organised around **roles**. What you see after logging in — yo
 
 | Role | Where the journey starts |
 |---|---|
-| **Application Owner** | Register an AI-enabled application and provide its business context, then complete the EU AI Act assessment. |
+| **Business Owner** | Register an AI-enabled application and provide its business context, then complete the EU AI Act assessment. |
 | **AI Engineer** | Provide the technical and model information and validate changes that may affect risk or compliance. |
 | **Compliance Officer** | Review submitted assessments, issue the binding risk classification, and oversee the compliance programme. |
 | **Administrator** | Manage users, roles, and platform configuration. |
@@ -17,7 +17,7 @@ A single person can hold more than one role, and the platform adapts the availab
 
 After signing in, you arrive on a landing page personalised to your name, role, and data. It surfaces your most important actions and information immediately, so you can start work without hunting through menus.
 
-### Application Owner / AI Engineer
+### Business Owner / AI Engineer
 
 Owners and engineers land on a home dashboard built around their day-to-day work:
 

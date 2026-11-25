@@ -2,7 +2,7 @@
 
 Determining an AI system's EU AI Act risk classification is the pivotal step in the governance journey — it decides which obligations apply and what compliance work follows. The platform makes this a **guided, AI-assisted flow** with a human reviewer always in the loop: the AI does the heavy lifting of reading documentation and proposing answers, while people review, correct, and make the binding decisions.
 
-The journey spans two roles. An **Application Owner** or **AI Engineer** completes and submits the assessment; a **Compliance Officer** reviews it and issues the final classification.
+The journey spans two roles. A **Business Owner** or **AI Engineer** completes and submits the assessment; a **Compliance Officer** reviews it and issues the final classification.
 
 ## Grounding in your documentation
 

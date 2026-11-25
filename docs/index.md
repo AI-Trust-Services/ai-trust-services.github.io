@@ -27,7 +27,7 @@ The platform connects the people responsible for an AI-enabled application acros
 
 | Key Role | Responsibility in the platform |
 |---|---|
-| **Application Owner** | Registers AI-enabled applications, provides the business context, and responds to requests throughout the compliance lifecycle. |
+| **Business Owner** | Registers AI-enabled applications, provides the business context, and responds to requests throughout the compliance lifecycle. |
 | **AI Engineer** | Reviews the technical setup, provides AI and model information, and validates changes that may affect risk or compliance. |
 | **Compliance Officer** | Reviews risk classifications, oversees compliance assessments, and confirms that regulatory requirements are addressed. |
 | **Administrator** | Manages users, roles, and platform configuration — without access to application or compliance content. |

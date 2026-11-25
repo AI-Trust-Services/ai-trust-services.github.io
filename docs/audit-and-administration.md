@@ -26,10 +26,6 @@ Administrators manage:
 - **Users and roles** — who has access and in what capacity.
 - **Platform configuration.**
 
-### White-labeling and custom branding
-
-Administrators can apply **custom branding** to the UI — logo, colours, and typography — so the platform can be adapted to an organisation's corporate identity. Branding is built to support multi-tenancy and to be extended with further options over time.
-
 ## Related capabilities
 
 Monitoring, alerting, and decision-trace analysis complete the operational side of governance. Those capabilities are described in [How it Works](/docs/how-it-works#monitor-ai-systems), which also includes the full [Glossary](/docs/how-it-works#glossary) of platform terms.

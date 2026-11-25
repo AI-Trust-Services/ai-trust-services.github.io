@@ -1,6 +1,6 @@
 # Tasks & Collaboration
 
-Governance is rarely a solo activity. An assessment may need input from several people — the Application Owner who knows the business context, the AI Engineer who understands the model, and the Compliance Officer who owns the decision. The platform turns this shared work into clear, assignable tasks so that everyone knows what needs their attention.
+Governance is rarely a solo activity. An assessment may need input from several people — the Business Owner who knows the business context, the AI Engineer who understands the model, and the Compliance Officer who owns the decision. The platform turns this shared work into clear, assignable tasks so that everyone knows what needs their attention.
 
 ## Assigning work within an assessment
 
