@@ -34,10 +34,6 @@ Opening a system brings you to a structured detail view that acts as the hub for
 
 For systems built on specific models, a dedicated **model card** view captures the relevant model attributes in one place. Model cards give technical and compliance stakeholders a consistent description of the underlying model — and their presence (or absence) is one of the signals the platform watches for in its alert rules.
 
-## Lifecycle stages
-
-Each registered system carries a **lifecycle stage** that reflects where it is operationally — from Development through Testing, Conformity, Market, Post-Market, and finally Decommissioned. The stage is visible on the system record and provides context for assessments, monitoring, and alerting.
-
 ## Next: assessment
 
 Registration captures *what* the system is. The next step is to determine *how it is classified* under the EU AI Act — a guided, AI-assisted flow covered in [AI-Assisted EU AI Act Assessment](/docs/ai-assisted-assessment).
