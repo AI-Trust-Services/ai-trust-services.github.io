@@ -51,7 +51,17 @@ export default defineConfig({
           text: "Overview",
           items: [
             { text: "Introduction", link: "/docs/" },
-            { text: "How it Works", link: "/docs/how-it-works" },
+          ],
+        },
+        {
+          text: "Platform Guide",
+          items: [
+            { text: "Getting Started", link: "/docs/getting-started" },
+            { text: "Register & Classify", link: "/docs/register-and-classify" },
+            { text: "AI-Assisted Assessment", link: "/docs/ai-assisted-assessment" },
+            { text: "Tasks & Collaboration", link: "/docs/tasks-and-collaboration" },
+            { text: "Compliance & Evidence", link: "/docs/compliance-and-evidence" },
+            { text: "Audit & Administration", link: "/docs/audit-and-administration" },
           ],
         },
       ],
